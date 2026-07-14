@@ -11,7 +11,9 @@
     <td align="center"><img src="generated-images/hotpot-cosplayer-candid-snaps....png" width="150"><br>火锅coser</td>
     <td align="center"><img src="generated-images/korean-cozy-study-night-portra....png" width="150"><br>夜晚学习</td>
     <td align="center"><img src="generated-images/korean-cozy-study-portrait.png" width="150"><br>学习肖像</td>
-    <td align="center"><img src="generated-images/silent-cosplay-anime-con.png
+    <td align="center"><img src="generated-images/silent-cosplay-anime-con.png" width="150"><br>漫展cos</td>
+  </tr>
+</table>
 
 <div align="center">
   
