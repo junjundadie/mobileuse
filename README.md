@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img src="image.png" width="300" alt="示例图片">
+  <img src="image.png" width="100" alt="示例图片">
 </div>
 
 <div align="center">
