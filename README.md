@@ -7,9 +7,9 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="generated-images/hotpot-cosplayer-candid-snapshot.png" width="150"><br>火锅coser</td>
-    <td align="center"><img src="generated-images/korean-cozy-study-night-portrait.png" width="150"><br>夜晚学习</td>
-    <td align="center"><img src="generated-images/silent-cosplay-anime-con.png" width="150"><br>漫展cos</td>
+    <td align="center"><img src="generated-images/hotpot-cosplayer-candid-snapshot.png" width="150"><br>
+    <td align="center"><img src="generated-images/korean-cozy-study-night-portrait.png" width="150"><br>
+    <td align="center"><img src="generated-images/silent-cosplay-anime-con.png" width="150"><br>
   </tr>
 </table>
 
