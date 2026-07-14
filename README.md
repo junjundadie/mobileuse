@@ -17,8 +17,8 @@
   
 | 文件夹用途 | 存放路径 |
 |:---------:|:--------:|
-| 我的生成图片存放地址 | `generated-images/` |
-| 文生图提示词 | `prompts/` |
-| 小项目存放 | `small-projects/` |
+| 我的生成图片存放地址 | [generated-images](generated-images/) |
+| 文生图提示词 | [prompts](prompts/) |
+| 小项目存放 | [small-projects](small-projects/) |
 
 </div>
