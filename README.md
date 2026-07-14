@@ -2,4 +2,4 @@
 
 主要是有时候存放一些杂碎的文件
 
-<img src="image.png" width="300" height="200" alt="美图镇楼">
+<img src="image.png" width="300"  alt="美图镇楼">
